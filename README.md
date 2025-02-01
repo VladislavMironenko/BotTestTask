@@ -1,5 +1,5 @@
 1. Для начала заберем проект к себе на машину:
- - git clone https://github.com/VladislavMironenko/botTest.git 
+ - git clone https://github.com/VladislavMironenko/BotTestTask.git
 
 2. Добавьте в папку app файл .env
 
